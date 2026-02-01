@@ -48,10 +48,9 @@ python sender.py
 
 The system can be scheduled to run everymidnight midnight
 
-'''
+```
 0 0 * * * /usr/bin/python3 /home/user/path/to/sender.py
-
-'''
+```
 
 
 pip install -r requirements.txt
