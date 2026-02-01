@@ -21,7 +21,7 @@ git clone https://github.com/jamesantonydas/Refund_Department_Classification
 
 ### Running the Docker API Service
 
-After downloading the application, please run the following command to build the docker image
+After downloading the application, please run the following command inside the newly created directory to build the docker image
 
 ```
 docker build -t fashion-api .
