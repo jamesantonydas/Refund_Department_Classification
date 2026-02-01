@@ -6,6 +6,8 @@ A System that can detect and classify images belongs to fashion products. The Cl
   <img src="https://github.com/jamesantonydas/Refund_Department_Classification/blob/main/images/mod2prod_title.png"/>
 </p>
 
+The python notebook is availabe [here](https://github.com/jamesantonydas/Refund_Department_Classification/blob/main/Model_Building.ipynb)
+
 ## Getting Started
 
 This project needs the python3 or above runtime installed in your system. 
