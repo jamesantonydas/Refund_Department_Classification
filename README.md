@@ -48,7 +48,7 @@ python sender.py
 
 ### Setting up the CronJob
 
-The system can be scheduled to run everymidnight midnight
+The system can be scheduled to run every midnight
 
 ```
 0 0 * * * /usr/bin/python3 /home/user/path/to/sender.py
