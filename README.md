@@ -34,7 +34,7 @@ To run the docker service, please run,
 docker run -p 8000:8000 fashion-api
 ```
 
-This will start the service at localhost/8000
+This will start the service at localhost:8000
 
 ### Testing the Application
 
